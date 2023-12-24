@@ -36,7 +36,7 @@
 // const a = fs.readFileSync("./sample.txt","utf-8");
 
 // console.log(a);
-// console.log("Hey buddy I am the first");
+// console.log("Hey buddy now I am not the first, i will second");
 
 
 // ---------Write file ----------
